@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-#python
+#hello world and python
 import urllib.request, re
 
 url = "http://movie.mtime.com/#"
